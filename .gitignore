@@ -1,0 +1,16 @@
+## MAC/OSX ##
+
+# This Folder's .DS_Store
+.DS_Store
+
+# DS_Stores in all sub-folders
+*/.DS_Store
+
+
+## DAFNY ##
+
+# Compliation files
+*.dll
+*.dll.mdb
+*/*.dll
+*/*.dll.mdb
